@@ -1,0 +1,27 @@
+{
+  "name": "chai-mocha-basics",
+  "version": "1.0.0",
+  "description": "A basic Chai Mocha Setup",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/farhi-naz/chai-mocha-basics.git"
+  },
+  "keywords": [
+    "mocha",
+    "chai"
+  ],
+  "author": "Farhat Naz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/farhi-naz/chai-mocha-basics/issues"
+  },
+  "homepage": "https://github.com/farhi-naz/chai-mocha-basics#readme",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.3.0"
+  }
+}
